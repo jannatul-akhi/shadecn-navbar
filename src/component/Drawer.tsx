@@ -66,7 +66,7 @@ export function DrawerDemo() {
   }
 
   return (
-    <Drawer direction="left" >
+    <Drawer direction="left">
       <DrawerTrigger asChild>
         <Button variant="outline">Open Drawer</Button>
       </DrawerTrigger>
